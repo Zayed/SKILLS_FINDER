@@ -1,4 +1,4 @@
-# SKILLS_FINDER - A web based project
+# SKILLS FINDER - A web based project
 
 
 # Introduction
